@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Peramalan": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
